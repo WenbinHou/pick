@@ -1,0 +1,8 @@
+# Ignore IDE files
+.idea/
+.vscode/
+~*.swp
+
+# Ignore venv files
+.venv/
+venv/
